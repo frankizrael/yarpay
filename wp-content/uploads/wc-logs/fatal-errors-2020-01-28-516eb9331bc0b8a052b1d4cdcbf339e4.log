@@ -1,0 +1,4 @@
+2020-01-28T06:05:45+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\yarpay\wp-content\plugins\advanced-custom-fields-pro\includes\locations\class-acf-location-widget.php on line 3
+
+2020-01-28T20:10:53+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\yarpay\wp-admin\includes\user.php on line 16
+

@@ -1,0 +1,4 @@
+2020-01-29T02:07:44+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\yarpay\wp-content\plugins\advanced-custom-fields-pro\includes\fields\class-acf-field-message.php on line 3
+
+2020-01-29T18:03:50+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\yarpay\wp-content\plugins\yith-woocommerce-wishlist\plugin-fw\lib\yit-plugin-subpanel.php on line 11
+
